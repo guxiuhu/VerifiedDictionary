@@ -1,0 +1,2 @@
+# VerifiedDictionary
+NSDictionary的取值校验
